@@ -33,7 +33,5 @@ A fitness tracker application that allows its user to create a new workout routi
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
- 
-## Tests
- 
+
 
