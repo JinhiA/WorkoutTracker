@@ -27,7 +27,7 @@ A fitness tracker application that allows its user to create a new workout routi
 
 ## Usage
 
-
+![Demo](FitnessTracker.gif)
   
 
 ## License
